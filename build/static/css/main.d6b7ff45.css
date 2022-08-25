@@ -1,0 +1,2 @@
+:root{--pad:2px}body{padding:2px;padding:var(--pad)}.circle{border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-top-left-radius:50%;border-top-right-radius:50%;height:201px;margin-bottom:2px;margin-bottom:var(--pad);width:201px}.circle--greencircle{background-color:var(--someColor)}.circle--cyancircle{background-color:var(--some-color)}
+/*# sourceMappingURL=main.d6b7ff45.css.map*/
